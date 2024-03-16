@@ -21,8 +21,3 @@ This is a simple weather application that allows users to check the current temp
 ### API Used
 - OpenWeatherMap API - Used to fetch weather data based on the city.
 
-### Credits
-- This application was created by [Your Name].
-
-### License
-- This project is licensed under the MIT License - see the LICENSE file for details.
